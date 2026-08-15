@@ -45,4 +45,4 @@
 
 Python, pandas, NumPy, Matplotlib, Seaborn, SciPy, Statsmodels.
 
-Основное исследование находится в /ecommerce_user_behavior_analysis.ipynb.
+Основное исследование находится в /ecommerce_analysis.ipynb.
